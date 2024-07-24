@@ -15,10 +15,13 @@ This is a Python application that displays information about an anime, including
     Pillow library
 ### Setup
 
-    1 Clone the repository:```git clone https://github.com/yourusername/anime-info-app.git cd anime-info-app```
-    2 Install the required packages: ```pip install tkinter requests pandas pillow```
-    3 Place the necessary image files (search field.png, search_icon.png, logo.png, big box.png, small box.png) in the project directory.
-    4 Ensure you have the anime data.xlsx file in the project directory, which contains the manga chapter data. This dataset is a small one created specifically for this project.
+  1 Clone the repository:```git clone https://github.com/yourusername/anime-info-app.git cd anime-info-app```.
+     
+  2 Install the required packages: ```pip install tkinter requests pandas pillow```.
+     
+  3 Place the necessary image files (search field.png, search_icon.png, logo.png, big box.png, small box.png) in the project directory.
+    
+  4 Ensure you have the anime data.xlsx file in the project directory, which contains the manga chapter data. This dataset is a small one created specifically for this project.
 ### Usage
 
   1 Run the application: ```python animecode.py```.   
