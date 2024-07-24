@@ -21,8 +21,10 @@ This is a Python application that displays information about an anime, including
     4 Ensure you have the anime data.xlsx file in the project directory, which contains the manga chapter data. This dataset is a small one created specifically for this project.
 ### Usage
 
-   1 Run the application: ```python animecode.py```
-   2 Enter the name of the anime in the search field and click the search icon.
+  1 Run the application: ```python animecode.py```.   
+    
+  2 Enter the name of the anime in the search field and click the search icon.
+     
    3 The app will display the number of episodes, status, seasons, genre, and the manga chapter to start reading from after the anime.
 ## API Used
 
